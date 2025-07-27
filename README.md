@@ -37,20 +37,23 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+   <code><img title="Type script" height="25" src="images/typeScript.png"></code>
+   <code><img title="Dart" height="25" src="images/dart.png"></code>
+ <code><img title="Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="bootstrap" height="25" src="images/bootstrap.webp"></code>
+   <code><img title="tailwind" height="25" src="images/tailwind.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Angular" height="25" src="images/angular.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Github" height="25" src="images/30_github.c0a4dde53e.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Cursor" height="25" src="images/cursor.jpeg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
  
 </p>
