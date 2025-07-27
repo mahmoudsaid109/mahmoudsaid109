@@ -13,16 +13,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mahmoud Said, Flutter Develober & Web Developer with Anular & Software Engineer
+  Hi, I'm Mahmoud Said...
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  I'm Flutter Develober & Web Developer with Anular & Software Engineer..
   <br>
-  🎓 I graduated from Menofia University, Department of Computer Science 
+  🎓 I graduated from Menofia University, Department of Computer Science. 
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning Angular Framwork and how can i build projects with it
+  📚 I’m currently learning Angular Framwork and how can i build projects with it..
   <br>
   💬 Ask me anything about from <a href="https://github.com/mahmoudsaid109/mahmoudsaid109/issues" title="Issues">Here</a>
   <br>
