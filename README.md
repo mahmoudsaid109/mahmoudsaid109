@@ -24,7 +24,7 @@
   <br>
   📚 I’m currently learning Angular Framwork and how can i build projects with it
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/mahmoudsaid109/mahmoudsaid109/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: mahmoud22said22@gmail.com">mahmoudSaid</a>
 </p>
@@ -52,7 +52,6 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
 <hr>
 
