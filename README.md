@@ -93,7 +93,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mahmoudsaid109/Html-css-proj" title="Html-css-proj"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudsaid109&repo=Html-css-proj&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mahmoudsaid109/cmp-deep-dive" title="cmp-deep-dive"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudsaid109&repo=Guess-The-Word&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mahmoudsaid109/cmp-deep-dive" title="cmp-deep-dive"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudsaid109&repo=camp-deep-dive&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
